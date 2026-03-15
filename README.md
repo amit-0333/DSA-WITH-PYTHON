@@ -1,7 +1,6 @@
-# DSA-WITH-PYTHON
-# 📘 DSA with Python
+# 📘 DSA With Python
 
-This repository contains my notes, practice problems, and implementations from my **Data Structures & Algorithms learning journey using Python**.
+This repository contains my **notes, practice problems, and implementations** from my **Data Structures & Algorithms learning journey using Python**.
 
 ---
 
@@ -21,17 +20,15 @@ This repository contains my notes, practice problems, and implementations from m
 * Graphs
 * Greedy Algorithms
 * Dynamic Programming
-* Sliding Window
-* Two Pointer Technique
 
 ---
 
 ## 🧠 Purpose
 
-* Practice Data Structures & Algorithms
-* Prepare for Coding Interviews
-* Improve Problem-Solving Skills
-* Track My Learning Progress
+* Practice **Data Structures & Algorithms**
+* Prepare for **Coding Interviews**
+* Improve **Problem-Solving Skills**
+* Track **My Learning Progress**
 
 ---
 
@@ -43,21 +40,21 @@ This repository contains my notes, practice problems, and implementations from m
 
 ---
 
-## 🙏 Credits
+##  Credits
 
 The notes and learning resources in this repository are based on teachings from:
 
 **Priya Bhatia — FAANG Batch Tutor**
 
 Full credit goes to her for the original content and structured explanations.
-I have only organized and uploaded these notes for my personal learning and revision.
+I have only organized and uploaded these notes for my **personal learning and revision**.
 
 ---
 
 ## ⚠️ Disclaimer
 
-* This repository is for **educational purposes only**.
-* If any content ownership issue arises, please contact me. I will update or remove the content.
+This repository is for **educational purposes only**.
+If any content ownership issue arises, please contact me. I will update or remove the content.
 
 ---
 
@@ -65,10 +62,9 @@ I have only organized and uploaded these notes for my personal learning and revi
 
 If you find this repository helpful:
 
-* Star 🌟 the repo
-* Fork 🍴 it for practice
-* Use it for revision
+* ⭐ **Star** the repository
+* 🍴 **Fork** it for practice
+* 📚 **Use it for revision**
 
----
+**Happy Coding 🚀**
 
-Happy Coding 🚀
